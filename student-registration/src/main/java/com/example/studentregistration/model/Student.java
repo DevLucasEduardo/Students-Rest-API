@@ -27,8 +27,8 @@ public class Student {
     @Column(name = "birth_date", nullable = false)
     private LocalDate birthDate;
 
-    //@ManyToOne
-    //private Course course;
+    @ManyToOne
+    private Course course;
 
 
 }

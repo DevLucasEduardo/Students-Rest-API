@@ -26,7 +26,7 @@ public class Course {
     @Column(name = "duration", nullable = false)
     private Integer duration;
 
-    //@OneToMany
-   // private List<Student> students;
+    @OneToMany
+    private List<Student> students;
 
 }
