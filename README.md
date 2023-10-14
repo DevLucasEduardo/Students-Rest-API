@@ -20,6 +20,8 @@ The project uses the following dependencies:
 - `spring-boot-starter-data-jpa`: For JPA (Java Persistence API) integration to interact with the MySQL database.
 - `spring-boot-starter-web`: For creating RESTful web services.
 - `lombok`: To reduce boilerplate code.
+- `mysql-connector-j`: MySQL database driver for Spring Boot.
+- `spring-boot-devtools`: For development-time tools.
 
 ## Getting Started
 
