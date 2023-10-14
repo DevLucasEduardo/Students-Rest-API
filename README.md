@@ -1,6 +1,6 @@
 # Students-Rest-API
 
-The "Student Registration REST API" is a Spring Boot project designed to provide a RESTful API for managing student records and their associated courses in a MySQL database. This API allows you to perform CRUD (Create, Read, Update, Delete) operations on both students and courses.
+The "Students-Rest-API" is a Spring Boot project designed to provide a RESTful API for managing student records and their associated courses in a MySQL database. This API allows you to perform CRUD (Create, Read, Update, Delete) operations on both students and courses.
 
 ## Table of Contents
 
